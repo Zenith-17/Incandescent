@@ -1,0 +1,44 @@
+
+
+.home-header img{
+  text-align: center;
+  display: flex;
+  justify-content:flex-end;
+  animation-duration: 3s;
+  animation-name: slideout;
+  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+
+.home-header h1 {
+  color: black;
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+  color: black;
+  margin: 2rem;
+  animation-duration: 3s;
+  animation-name: slidein;
+
+  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+
+.home-header h1 span {
+  color: #b0c4de;
+}
+.home-header img{
+  border-radius: 40%;
+  margin-top: 1rem;
+}
+@keyframes slidein{
+  from{transform: translate(100%);}
+  to{
+      transform: translate(0%);
+  }
+}
+@keyframes slideout{
+  from{transform: translate(-100%);}
+  to{
+      transform: translate(0%);
+  }
+}
