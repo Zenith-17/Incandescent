@@ -4,7 +4,7 @@
 
 <h2>Purpose</h2>
 
-<p>The purpose of this blog is to provide a platform where individuals can find information that will help them grow personally and professionally. The articles here are designed to motivate and educate you on various topics, including career development, personal finance, self-improvement, and more.</p>
+<p>The purpose of this blog is to provide a platform where individuals can find information that will help them grow personally and professionally. The articles here are designed to motivate and educate you on various topics, including career development, self-improvement, and more.</p>
 
 <h2>Content</h2>
 
