@@ -1,6 +1,8 @@
 <h1>Personal Blog: Education and Motivation</h1>
 
 <p>Welcome to my personal blog, where I share educational and motivational content to inspire and uplift you.</p>
+<p>Dekstop Link:
+<a href="https://incandescent-git-main-atharvabhatnagar.vercel.app/">Click Here</a></p>
 
 <h2>Purpose</h2>
 
