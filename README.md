@@ -21,9 +21,9 @@
 <br><br>
 
 ![Screenshot (598)](https://github.com/Zenith-17/Incandescent/assets/99113156/58456c55-afa1-4be3-8af6-3749f0659c3c)
-
+<!-- 
 <p>Dekstop Link:
-<a href="https://incandescent-git-main-atharvabhatnagar.vercel.app/">Click Here</a></p>
+<a href="https://incandescent-git-main-atharvabhatnagar.vercel.app/">Click Here</a></p> -->
 <h2>About Me</h2>
 
 
